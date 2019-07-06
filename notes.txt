@@ -1,0 +1,28 @@
+For Lab 2 you will be doing some of the SEED Labs.
+
+Please download the VM here: http://www.cis.syr.edu/~wedu/SEEDUbuntu12.04.zip 
+
+Note that you MUST use the VM as it is the only way to standardize the attacks you will implement.
+
+Please find the VM setup instructions here: http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu12_04_VM/Ubuntu12_04_VM_Manual.pdf (Links to an external site.)
+
+There are 5 required and 1 optional extra credit lab:
+
+1. (REQUIRED) http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow/ (Links to an external site.)
+
+2. (REQUIRED) http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Return_to_libc/ (Links to an external site.)
+
+3. (REQUIRED) http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Environment_Variable_and_SetUID/ (Links to an external site.)
+
+4. (REQUIRED) http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Set-UID/ (Links to an external site.)
+
+5. (REQUIRED) http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Format_String/ (Links to an external site.)
+
+6. (OPTIONAL) http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Race_Condition/ (Links to an external site.)
+
+Please follow the lab description and complete reports for each lab as described using the LaTeX template. Include the reports and your code in a tar submission.
+
+
+VERY HELPFUL LINK:
+https://github.com/firmianay/Life-long-Learner/tree/master/SEED-labs
+
